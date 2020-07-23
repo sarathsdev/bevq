@@ -1,6 +1,6 @@
 # bevq
 
-A new Flutter application based on Kerala Liquor Home Delivery  BevQ 
+A new Flutter application based on Kerala Liquor Home Delivery App -BevQ  
 
 # screenshot
 ![Screenshot_bevq](https://user-images.githubusercontent.com/68682390/88271661-1d5e6200-ccf5-11ea-9c2b-9d637b5e8668.jpg)
